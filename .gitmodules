@@ -1,0 +1,18 @@
+[submodule "Adafruit_TSL2591_Library"]
+	path = Adafruit_TSL2591_Library
+	url = https://github.com/adafruit/Adafruit_TSL2591_Library.git
+[submodule "Adafruit_Sensor"]
+	path = Adafruit_Sensor
+	url = https://github.com/adafruit/Adafruit_Sensor.git
+[submodule "DHT-sensor-library"]
+	path = DHT-sensor-library
+	url = https://github.com/adafruit/DHT-sensor-library.git
+[submodule "Adafruit_NeoPixel"]
+	path = Adafruit_NeoPixel
+	url = https://github.com/adafruit/Adafruit_NeoPixel.git
+[submodule "Arduino-LiquidCrystal-I2C-library"]
+	path = Arduino-LiquidCrystal-I2C-library
+	url = https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library.git
+[submodule "MTEC_smartfarm"]
+	path = MTEC_smartfarm
+	url = https://github.com/ans-mtec/MTEC_smartfarm.git
