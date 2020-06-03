@@ -10,9 +10,9 @@
 [submodule "Adafruit_NeoPixel"]
 	path = Adafruit_NeoPixel
 	url = https://github.com/adafruit/Adafruit_NeoPixel.git
-[submodule "Arduino-LiquidCrystal-I2C-library"]
-	path = Arduino-LiquidCrystal-I2C-library
-	url = https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library.git
 [submodule "MTEC_smartfarm"]
 	path = MTEC_smartfarm
 	url = https://github.com/ans-mtec/MTEC_smartfarm.git
+[submodule "LiquidCrystal_I2C"]
+	path = LiquidCrystal_I2C
+	url = https://github.com/johnrickman/LiquidCrystal_I2C.git
